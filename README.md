@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" width="160" alt="tekken8mvm logo"></p>
+
 # tekken8mvm
 
 Installers for tekken8mvm, the Tekken 8 cinematic and movie-making tool.
